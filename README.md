@@ -11,7 +11,7 @@ Created under Linux Mint 21.1 Cinnamon. Should work with other cinnamon versions
 
 
 ## Installation:
-Place `unitmonitor@survtur` folder into `~/.local/share/cinnamon/applets`
-
+1) Put `unitmonitor@survtur` folder into `~/.local/share/cinnamon/applets`
+2) Add through applets control center (`Applets` from main menu) 
 
 <img width="430" height="156" alt="image" src="https://github.com/user-attachments/assets/092600be-4822-4490-851b-9374b9b5a7e1" />
