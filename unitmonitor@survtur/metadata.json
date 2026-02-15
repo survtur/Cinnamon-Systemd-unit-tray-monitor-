@@ -1,0 +1,6 @@
+{
+    "uuid": "unitmonitor@survtur",
+    "name": "Systemd Unit Monitor",
+    "description": "Monitor specific systemd unit",
+    "max-instances": -1
+}

@@ -1,0 +1,17 @@
+{
+    "unit": {
+        "type": "entry",
+        "default": "myservice.service",
+        "description": "Systemd Unit Name",
+        "tooltip": "Example: nginx.service"
+    },
+    "interval": {
+        "type": "spinbutton",
+        "default": 5,
+        "min": 1,
+        "step": 1,
+        "max": 60,
+        "units": "seconds",
+        "description": "Refresh Interval"
+    }
+}
